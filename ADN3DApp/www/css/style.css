@@ -1,1 +1,14 @@
 /* Empty. Add your own CSS if you like */
+.cent {
+	text-align: center;
+}
+h2 {
+	font-size: 60px;
+	color:green;
+}
+ion-view {
+	background-image: url(https://1.bp.blogspot.com/-uUm-LsvCviE/V0y7pxVDs9I/AAAAAAAAAzg/ScK9X0RaAakW-TOI_UnOo_yncx-nCj6EgCKgB/w420-h280-p-k-no-nu/landscape-nature-clouds-cloudy.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
